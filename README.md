@@ -1,0 +1,1 @@
+this new project is about masterting bsic shell commands
