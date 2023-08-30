@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~
+mkdir tmp/6-firstdirectory
